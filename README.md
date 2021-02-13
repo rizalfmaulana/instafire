@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Firebase
+
+create a storage with [Firebase](https://firebase.google.com/)
+
+install Firebase
+
+```
+npm install firebase
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
